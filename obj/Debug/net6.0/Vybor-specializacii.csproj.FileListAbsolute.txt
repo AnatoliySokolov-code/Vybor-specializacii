@@ -1,0 +1,15 @@
+D:\Vybor-specializacii\obj\Debug\net6.0\Vybor-specializacii.csproj.AssemblyReference.cache
+D:\Vybor-specializacii\obj\Debug\net6.0\Vybor-specializacii.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vybor-specializacii\obj\Debug\net6.0\Vybor-specializacii.AssemblyInfoInputs.cache
+D:\Vybor-specializacii\obj\Debug\net6.0\Vybor-specializacii.AssemblyInfo.cs
+D:\Vybor-specializacii\obj\Debug\net6.0\Vybor-specializacii.csproj.CoreCompileInputs.cache
+D:\Vybor-specializacii\bin\Debug\net6.0\Vybor-specializacii.exe
+D:\Vybor-specializacii\bin\Debug\net6.0\Vybor-specializacii.deps.json
+D:\Vybor-specializacii\bin\Debug\net6.0\Vybor-specializacii.runtimeconfig.json
+D:\Vybor-specializacii\bin\Debug\net6.0\Vybor-specializacii.dll
+D:\Vybor-specializacii\bin\Debug\net6.0\Vybor-specializacii.pdb
+D:\Vybor-specializacii\obj\Debug\net6.0\Vybor-specializacii.dll
+D:\Vybor-specializacii\obj\Debug\net6.0\refint\Vybor-specializacii.dll
+D:\Vybor-specializacii\obj\Debug\net6.0\Vybor-specializacii.pdb
+D:\Vybor-specializacii\obj\Debug\net6.0\Vybor-specializacii.genruntimeconfig.cache
+D:\Vybor-specializacii\obj\Debug\net6.0\ref\Vybor-specializacii.dll
